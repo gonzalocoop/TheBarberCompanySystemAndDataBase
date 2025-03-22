@@ -1,0 +1,48 @@
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Datos\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Datos\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Datos\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Datos\obj\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Datos\obj\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Datos\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Datos\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Datos\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Datos\obj\Debug\Datos.pdb

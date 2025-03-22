@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelEF.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Alergia_Cliente">
+    <Key>
+      <PropertyRef Name="Producto_Alergia_Id" />
+      <PropertyRef Name="Cliente_Username" />
+    </Key>
+    <Property Name="Producto_Alergia_Id" Type="int" Nullable="false" />
+    <Property Name="Cliente_Username" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cita">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Fecha" Type="datetime" Nullable="false" />
+    <Property Name="Sede" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Hora_Inicio" Type="time" Precision="7" Nullable="false" />
+    <Property Name="Precio_Final" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="Metodo_Contacto" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Codigo_Metodo_Pago" Type="int" Nullable="false" />
+    <Property Name="Cliente_Username" Type="varchar" MaxLength="15" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="Username" />
+    </Key>
+    <Property Name="Username" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="Contrasena" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Apellido" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Telefono" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="Preferencias" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Descripcion_Cita">
+    <Key>
+      <PropertyRef Name="Cita_Id" />
+      <PropertyRef Name="Tipo_Servicio_Id" />
+    </Key>
+    <Property Name="Cita_Id" Type="int" Nullable="false" />
+    <Property Name="Tipo_Servicio_Id" Type="int" Nullable="false" />
+    <Property Name="Nombre_Servicio" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Pago">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tipo_Pago" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="Monto_Total" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="Numero_Telefono" Type="char" MaxLength="9" Nullable="false" />
+    <Property Name="Clave_Confirmacion" Type="varchar" MaxLength="6" Nullable="false" />
+    <Property Name="Cita_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Pago_Tarjeta">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tipo_Tarjeta" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Numero_Tarjeta" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Codigo_Autorizacion" Type="varchar" MaxLength="4" Nullable="false" />
+    <Property Name="Nombre_Cliente" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Pago_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Producto_Alergia">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="80" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Servicio">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Nombre_Servicio" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Descripcion_Servicio" Type="varchar" MaxLength="80" Nullable="false" />
+    <Property Name="Precio" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+  </EntityType>
+  <Association Name="Alergia_Cliente_Cliente">
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="1" />
+    <End Role="Alergia_Cliente" Type="Self.Alergia_Cliente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Username" />
+      </Principal>
+      <Dependent Role="Alergia_Cliente">
+        <PropertyRef Name="Cliente_Username" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Alergia_Cliente_Producto_Alergia">
+    <End Role="Producto_Alergia" Type="Self.Producto_Alergia" Multiplicity="1" />
+    <End Role="Alergia_Cliente" Type="Self.Alergia_Cliente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto_Alergia">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Alergia_Cliente">
+        <PropertyRef Name="Producto_Alergia_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Cita_Cliente">
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="1" />
+    <End Role="Cita" Type="Self.Cita" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Username" />
+      </Principal>
+      <Dependent Role="Cita">
+        <PropertyRef Name="Cliente_Username" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Descripcion_Cita_Cita">
+    <End Role="Cita" Type="Self.Cita" Multiplicity="1" />
+    <End Role="Descripcion_Cita" Type="Self.Descripcion_Cita" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cita">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Descripcion_Cita">
+        <PropertyRef Name="Cita_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Descripcion_Cita_Servicio">
+    <End Role="Servicio" Type="Self.Servicio" Multiplicity="1" />
+    <End Role="Descripcion_Cita" Type="Self.Descripcion_Cita" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Servicio">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Descripcion_Cita">
+        <PropertyRef Name="Tipo_Servicio_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Pago_Cita">
+    <End Role="Cita" Type="Self.Cita" Multiplicity="1" />
+    <End Role="Pago" Type="Self.Pago" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cita">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Pago">
+        <PropertyRef Name="Cita_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Pago_Tarjeta_Pago">
+    <End Role="Pago" Type="Self.Pago" Multiplicity="1" />
+    <End Role="Pago_Tarjeta" Type="Self.Pago_Tarjeta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pago">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Pago_Tarjeta">
+        <PropertyRef Name="Pago_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ModelEFStoreContainer">
+    <EntitySet Name="Alergia_Cliente" EntityType="Self.Alergia_Cliente" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cita" EntityType="Self.Cita" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cliente" EntityType="Self.Cliente" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Descripcion_Cita" EntityType="Self.Descripcion_Cita" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pago" EntityType="Self.Pago" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pago_Tarjeta" EntityType="Self.Pago_Tarjeta" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Producto_Alergia" EntityType="Self.Producto_Alergia" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Servicio" EntityType="Self.Servicio" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="Alergia_Cliente_Cliente" Association="Self.Alergia_Cliente_Cliente">
+      <End Role="Cliente" EntitySet="Cliente" />
+      <End Role="Alergia_Cliente" EntitySet="Alergia_Cliente" />
+    </AssociationSet>
+    <AssociationSet Name="Alergia_Cliente_Producto_Alergia" Association="Self.Alergia_Cliente_Producto_Alergia">
+      <End Role="Producto_Alergia" EntitySet="Producto_Alergia" />
+      <End Role="Alergia_Cliente" EntitySet="Alergia_Cliente" />
+    </AssociationSet>
+    <AssociationSet Name="Cita_Cliente" Association="Self.Cita_Cliente">
+      <End Role="Cliente" EntitySet="Cliente" />
+      <End Role="Cita" EntitySet="Cita" />
+    </AssociationSet>
+    <AssociationSet Name="Descripcion_Cita_Cita" Association="Self.Descripcion_Cita_Cita">
+      <End Role="Cita" EntitySet="Cita" />
+      <End Role="Descripcion_Cita" EntitySet="Descripcion_Cita" />
+    </AssociationSet>
+    <AssociationSet Name="Descripcion_Cita_Servicio" Association="Self.Descripcion_Cita_Servicio">
+      <End Role="Servicio" EntitySet="Servicio" />
+      <End Role="Descripcion_Cita" EntitySet="Descripcion_Cita" />
+    </AssociationSet>
+    <AssociationSet Name="Pago_Cita" Association="Self.Pago_Cita">
+      <End Role="Cita" EntitySet="Cita" />
+      <End Role="Pago" EntitySet="Pago" />
+    </AssociationSet>
+    <AssociationSet Name="Pago_Tarjeta_Pago" Association="Self.Pago_Tarjeta_Pago">
+      <End Role="Pago" EntitySet="Pago" />
+      <End Role="Pago_Tarjeta" EntitySet="Pago_Tarjeta" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

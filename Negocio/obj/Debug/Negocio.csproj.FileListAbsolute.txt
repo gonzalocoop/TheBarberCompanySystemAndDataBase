@@ -1,0 +1,48 @@
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Negocio\bin\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Negocio\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Negocio\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Negocio\obj\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Negocio\obj\Debug\Negocio.pdb

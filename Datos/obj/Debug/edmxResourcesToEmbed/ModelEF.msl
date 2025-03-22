@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelEFStoreContainer" CdmEntityContainer="BDEFEntities">
+    <EntitySetMapping Name="Alergia_Cliente">
+      <EntityTypeMapping TypeName="ModelEF.Alergia_Cliente">
+        <MappingFragment StoreEntitySet="Alergia_Cliente">
+          <ScalarProperty Name="Producto_Alergia_Id" ColumnName="Producto_Alergia_Id" />
+          <ScalarProperty Name="Cliente_Username" ColumnName="Cliente_Username" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cita">
+      <EntityTypeMapping TypeName="ModelEF.Cita">
+        <MappingFragment StoreEntitySet="Cita">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Sede" ColumnName="Sede" />
+          <ScalarProperty Name="Hora_Inicio" ColumnName="Hora_Inicio" />
+          <ScalarProperty Name="Precio_Final" ColumnName="Precio_Final" />
+          <ScalarProperty Name="Metodo_Contacto" ColumnName="Metodo_Contacto" />
+          <ScalarProperty Name="Codigo_Metodo_Pago" ColumnName="Codigo_Metodo_Pago" />
+          <ScalarProperty Name="Cliente_Username" ColumnName="Cliente_Username" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cliente">
+      <EntityTypeMapping TypeName="ModelEF.Cliente">
+        <MappingFragment StoreEntitySet="Cliente">
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Contrasena" ColumnName="Contrasena" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Preferencias" ColumnName="Preferencias" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Descripcion_Cita">
+      <EntityTypeMapping TypeName="ModelEF.Descripcion_Cita">
+        <MappingFragment StoreEntitySet="Descripcion_Cita">
+          <ScalarProperty Name="Cita_Id" ColumnName="Cita_Id" />
+          <ScalarProperty Name="Tipo_Servicio_Id" ColumnName="Tipo_Servicio_Id" />
+          <ScalarProperty Name="Nombre_Servicio" ColumnName="Nombre_Servicio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pago">
+      <EntityTypeMapping TypeName="ModelEF.Pago">
+        <MappingFragment StoreEntitySet="Pago">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Tipo_Pago" ColumnName="Tipo_Pago" />
+          <ScalarProperty Name="Monto_Total" ColumnName="Monto_Total" />
+          <ScalarProperty Name="Numero_Telefono" ColumnName="Numero_Telefono" />
+          <ScalarProperty Name="Clave_Confirmacion" ColumnName="Clave_Confirmacion" />
+          <ScalarProperty Name="Cita_Id" ColumnName="Cita_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pago_Tarjeta">
+      <EntityTypeMapping TypeName="ModelEF.Pago_Tarjeta">
+        <MappingFragment StoreEntitySet="Pago_Tarjeta">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Tipo_Tarjeta" ColumnName="Tipo_Tarjeta" />
+          <ScalarProperty Name="Numero_Tarjeta" ColumnName="Numero_Tarjeta" />
+          <ScalarProperty Name="Codigo_Autorizacion" ColumnName="Codigo_Autorizacion" />
+          <ScalarProperty Name="Nombre_Cliente" ColumnName="Nombre_Cliente" />
+          <ScalarProperty Name="Pago_id" ColumnName="Pago_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Producto_Alergia">
+      <EntityTypeMapping TypeName="ModelEF.Producto_Alergia">
+        <MappingFragment StoreEntitySet="Producto_Alergia">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Servicio">
+      <EntityTypeMapping TypeName="ModelEF.Servicio">
+        <MappingFragment StoreEntitySet="Servicio">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre_Servicio" ColumnName="Nombre_Servicio" />
+          <ScalarProperty Name="Descripcion_Servicio" ColumnName="Descripcion_Servicio" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

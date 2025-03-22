@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A87BA06A-4F88-48D0-9375-B3D4298FA879}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCuenta.Designer.cs">
+      <DependentUpon>FormCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDescripcionCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDescripcionCita.Designer.cs">
+      <DependentUpon>FormDescripcionCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormIniciarSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIniciarSesion.Designer.cs">
+      <DependentUpon>FormIniciarSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInicio.Designer.cs">
+      <DependentUpon>FormInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormModificarCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModificarCita.Designer.cs">
+      <DependentUpon>FormModificarCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormModificarCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModificarCuenta.Designer.cs">
+      <DependentUpon>FormModificarCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPagoOnline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPagoOnline.Designer.cs">
+      <DependentUpon>FormPagoOnline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPagoPlin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPagoPlin.Designer.cs">
+      <DependentUpon>FormPagoPlin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPagoYape.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPagoYape.Designer.cs">
+      <DependentUpon>FormPagoYape.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegistrarAlergia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegistrarAlergia.Designer.cs">
+      <DependentUpon>FormRegistrarAlergia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegistrarCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegistrarCitas.Designer.cs">
+      <DependentUpon>FormRegistrarCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegistrarse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegistrarse.Designer.cs">
+      <DependentUpon>FormRegistrarse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerCitas.Designer.cs">
+      <DependentUpon>FormVerCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerPagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerPagos.Designer.cs">
+      <DependentUpon>FormVerPagos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerServicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerServicios.Designer.cs">
+      <DependentUpon>FormVerServicios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormCuenta.resx">
+      <DependentUpon>FormCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDescripcionCita.resx">
+      <DependentUpon>FormDescripcionCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIniciarSesion.resx">
+      <DependentUpon>FormIniciarSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInicio.resx">
+      <DependentUpon>FormInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModificarCita.resx">
+      <DependentUpon>FormModificarCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModificarCuenta.resx">
+      <DependentUpon>FormModificarCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPagoOnline.resx">
+      <DependentUpon>FormPagoOnline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPagoPlin.resx">
+      <DependentUpon>FormPagoPlin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPagoYape.resx">
+      <DependentUpon>FormPagoYape.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegistrarAlergia.resx">
+      <DependentUpon>FormRegistrarAlergia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegistrarCitas.resx">
+      <DependentUpon>FormRegistrarCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegistrarse.resx">
+      <DependentUpon>FormRegistrarse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerCitas.resx">
+      <DependentUpon>FormVerCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerPagos.resx">
+      <DependentUpon>FormVerPagos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerServicios.resx">
+      <DependentUpon>FormVerServicios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{7f06824b-7fbc-4b8a-acab-ad0d4bae568b}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{aaa02883-a747-44b1-aabd-a0e605465fbc}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

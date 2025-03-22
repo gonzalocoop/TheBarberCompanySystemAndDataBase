@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="78bc57004a5b4a04ac85309481cafb85" Name="Diagram1">
+        <EntityTypeShape EntityType="ModelEF.Alergia_Cliente" Width="1.5" PointX="3" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Cita" Width="1.5" PointX="3" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Cliente" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Descripcion_Cita" Width="1.5" PointX="3" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Pago" Width="1.5" PointX="5.5" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Pago_Tarjeta" Width="1.5" PointX="9.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Producto_Alergia" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ModelEF.Servicio" Width="1.5" PointX="0.5" PointY="11.5" IsExpanded="true" />
+        <AssociationConnector Association="ModelEF.Alergia_Cliente_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.Alergia_Cliente_Producto_Alergia" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.Cita_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.Descripcion_Cita_Cita" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.Pago_Cita" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.Descripcion_Cita_Servicio" ManuallyRouted="false" />
+        <AssociationConnector Association="ModelEF.Pago_Tarjeta_Pago" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

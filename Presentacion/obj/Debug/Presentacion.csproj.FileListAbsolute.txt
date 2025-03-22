@@ -1,0 +1,202 @@
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormCuenta.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormDescripcionCita.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormIniciarSesion.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormInicio.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormModificarCita.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormModificarCuenta.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoOnline.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoYapePlin.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarAlergia.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarCitas.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarse.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerCitas.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerServicios.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Gonzalo\Desktop\TF Fundamentos\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerPagos.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormCuenta.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormDescripcionCita.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormIniciarSesion.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormInicio.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormModificarCita.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormModificarCuenta.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoOnline.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoYapePlin.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarAlergia.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarCitas.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarse.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerCitas.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerPagos.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerServicios.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Gonzalo\Desktop\TF Intentandole Todo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormCuenta.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormDescripcionCita.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormIniciarSesion.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormInicio.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormModificarCita.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormModificarCuenta.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoOnline.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarAlergia.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarCitas.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarse.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerCitas.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerPagos.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerServicios.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoPlin.resources
+C:\Users\Gonzalo\Desktop\TF Funda Todo\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoYape.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormCuenta.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormDescripcionCita.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormIniciarSesion.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormInicio.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormModificarCita.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormModificarCuenta.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoOnline.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoPlin.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoYape.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarAlergia.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarCitas.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarse.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerCitas.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerPagos.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerServicios.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormCuenta.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormDescripcionCita.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormIniciarSesion.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormInicio.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormModificarCita.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormModificarCuenta.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoOnline.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoPlin.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoYape.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarAlergia.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarCitas.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarse.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerCitas.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerPagos.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerServicios.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Gonzalo\Desktop\TF FudamentosSI TOdo\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.dll
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormCuenta.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormDescripcionCita.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormIniciarSesion.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormInicio.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormModificarCita.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormModificarCuenta.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoOnline.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoPlin.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormPagoYape.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarAlergia.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarCitas.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormRegistrarse.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerCitas.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerPagos.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.FormVerServicios.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Gonzalo\Desktop\testeo\TrabajoG2\TrabajoG2\Presentacion\obj\Debug\Presentacion.pdb
